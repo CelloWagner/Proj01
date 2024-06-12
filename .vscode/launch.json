@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "breakOnError": true,
+            "type": "al",
+            "server": "http://localhost",
+            "serverInstance": "BC230",
+            "port": 7089,
+            //"port": 8080,
+            "authentication": "Windows",
+            "launchBrowser": true,
+            "name": "newsystem",
+            "request": "launch",
+            "schemaUpdateMode": "ForceSync",
+            "dependencyPublishingOption": "Ignore"
+        }
+    ]
+}
